@@ -1,0 +1,63 @@
+=== VT Blogging - Changelog ===
+
+
+*** v1.0.7 - Feb 08, 2018 ***
+=============================
+* File Update:
+	- /inc/widgets/widget-popular.php
+* FIX: Image Size 'vt_blogging_widget_thumb'. please resize your images with install "Regenerate Thumbnails" plugin.
+
+*** v1.0.6 - Jan 23, 2018 ***
+=============================
+* FIX: missing 'no-thumb' image if no featured image set
+
+*** v1.0.5 - Jan 22, 2018 ***
+=============================
+* UPD: vt-blogging.pot
+* UPD: Blog Page Layout Option
+* ADD: New Layout "Standard Blog Layout"
+* FIX: Data escaped
+* FIX: Entry-tag styling
+
+*** v1.0.4 - Jan 17, 2018 ***
+=============================
+* UPD: vt-blogging.pot
+* UPD: style.css
+* ADD: Helper Text if no active Widget - Logged-in User
+* ADD: Helper Text if no active Menu - Logged-in User
+* FIX: custom logo compatible for 3 versions
+* FIX: get_search_form
+* FIX: Translatable text
+
+*** v1.0.3 - Jan 06, 2018 ***
+=============================
+* UPD: vt-blogging.pot
+* UPD: Customizer
+* FIX: site tagline
+
+*** v1.0.2 - Jan 05, 2018 ***
+=============================
+* UPD: vt-blogging.pot
+* UPD: Customizer
+* UPD: style.css
+* UPD: editor-style.css
+* UPD: modernizer
+* UPD: non-minified file included
+* ADD: Set a default fallback image for Post Thumbnails
+* FIX: minor bugs
+
+*** v1.0.1 - Des 25, 2017 ***
+=============================
+* UPD: vt-blogging.pot
+* Optimizing Responsive Design
+* Improve Theme Customizer Option
+* FIX: Posts & Page Pagination
+* FIX: Mobile Menu
+* FIX: option to hide 'header-search'
+* FIX: image page
+* UPD: responsive.css
+* UPD: style.css
+
+*** v1.0 - Oct 24, 2017 ***
+===========================
+* Initial theme release!

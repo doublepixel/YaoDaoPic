@@ -1,0 +1,457 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-21 15:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:17
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"Sorry, but it looks like nothing was found at this location. You may try one "
+"of the links below or do a search."
+msgstr ""
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:55
+#, php-format
+msgid "Try looking in the monthly archives. "
+msgstr ""
+
+#: category.php:20
+msgid "Home"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural " Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:146
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:148 functions.php:157 functions.php:166 functions.php:175
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:155
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:164
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:173
+msgid "Footer Column 3"
+msgstr ""
+
+#: header.php:56
+#, php-format
+msgid "Add menu for theme location: Primary Menu."
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for "
+msgstr ""
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: sidebar.php:23
+msgid "This is the Primary Sidebar Widget Area"
+msgstr ""
+
+#: sidebar.php:24
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your Widgets Panel which will replace "
+"default widgets."
+msgstr ""
+
+#: sidebar.php:30
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:34
+msgid "Archives"
+msgstr ""
+
+#: customizer/customizer-options.php:34
+msgid "Responsive Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:35
+msgid "Fixed Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:40
+msgid "Theme Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:46
+msgid "Site Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:54 customizer/customizer-options.php:68
+msgid "List Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:55 customizer/customizer-options.php:69
+msgid "Standard Blog Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:60
+msgid "Blog Page Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:74
+msgid "Archive Page Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:83
+msgid "Number of words to show on excerpt"
+msgstr ""
+
+#: customizer/customizer-options.php:87
+msgid "Default: 38"
+msgstr ""
+
+#: customizer/customizer-options.php:92
+msgid "Primary Color"
+msgstr ""
+
+#: customizer/customizer-options.php:100
+msgid "Header Background"
+msgstr ""
+
+#: customizer/customizer-options.php:108
+msgid "Header Search Background"
+msgstr ""
+
+#: customizer/customizer-options.php:116
+msgid "Pagination Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:125
+msgid "Display header search form"
+msgstr ""
+
+#: customizer/customizer-options.php:133
+msgid "Display author box on single posts"
+msgstr ""
+
+#: customizer/customizer-options.php:141
+msgid "Display related posts on single posts"
+msgstr ""
+
+#: customizer/customizer-options.php:149
+msgid "Display \"back to top\" icon link on the site bottom"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "View all posts in "
+msgstr ""
+
+#: inc/template-tags.php:72 inc/template-tags.php:72
+msgid "WordPress"
+msgstr ""
+
+#. Author of the theme
+#: inc/template-tags.php:74 inc/template-tags.php:74
+msgid "VolThemes"
+msgstr ""
+
+#: inc/template-tags.php:76
+#, php-format
+msgid "Copyright  All rights reserved."
+msgstr ""
+
+#: inc/template-tags.php:76
+#, php-format
+msgid "Theme:  by "
+msgstr ""
+
+#: inc/template-tags.php:76
+#, php-format
+msgid "Powered by ."
+msgstr ""
+
+#: layouts/blog-layout-1.php:17 layouts/blog-layout-2.php:19
+#: template-parts/content-loop.php:11 template-parts/content-single.php:23
+msgid "Posted by"
+msgstr ""
+
+#: layouts/blog-layout-1.php:19 layouts/blog-layout-2.php:21
+#: template-parts/content-loop.php:13 template-parts/content-single.php:23
+msgid "in"
+msgstr ""
+
+#: layouts/blog-layout-1.php:40 layouts/blog-layout-2.php:32
+#: template-parts/content-loop.php:29 template-parts/content-search.php:27
+msgid "Read More"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width (No Sidebar)"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:47
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: template-parts/content-page.php:34 template-parts/content-single.php:60
+#, php-format
+msgid "Edit "
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-single.php:42
+#, php-format
+msgid "Continue reading "
+msgstr ""
+
+#: template-parts/content-single.php:107
+msgid "You May"
+msgstr ""
+
+#: template-parts/content-single.php:107
+msgid "Also Like"
+msgstr ""
+
+#: template-parts/content-single.php:147
+msgid "About the Author:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:14
+msgctxt "widget name"
+msgid "[VT] About Widget"
+msgstr ""
+
+#: inc/widgets/widget-about.php:15
+msgid "About Widget with your image and description."
+msgstr ""
+
+#: inc/widgets/widget-about.php:49 inc/widgets/widget-about.php:49
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widget-about.php:50 inc/widgets/widget-about.php:50
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widget-about.php:51
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widgets/widget-about.php:51
+msgid "Google+"
+msgstr ""
+
+#: inc/widgets/widget-about.php:52
+msgid "Youtube"
+msgstr ""
+
+#: inc/widgets/widget-about.php:52
+msgid "YouTube"
+msgstr ""
+
+#: inc/widgets/widget-about.php:53 inc/widgets/widget-about.php:53
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widget-about.php:54
+msgid "Feed"
+msgstr ""
+
+#: inc/widgets/widget-about.php:54
+msgid "RSS"
+msgstr ""
+
+#: inc/widgets/widget-about.php:89
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:94
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:99
+msgid "Image ALT:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:104
+msgid "Image Width:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:109
+msgid "Image Height:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:114
+msgid "About Description:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:119
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:124
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:129
+msgid "Googleplus:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:134
+msgid "Youtube:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:139
+msgid "Instagram:"
+msgstr ""
+
+#: inc/widgets/widget-about.php:144
+msgid "RSS Feed:"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:23
+msgid "A widget that displays popular posts by comments with thumbnails."
+msgstr ""
+
+#. $this->id_base
+#: inc/widgets/widget-popular.php:29
+msgid "[VT] Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:87
+msgid "No Picture"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:149
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:159
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:166
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:174
+msgid "Display post date?"
+msgstr ""
+
+#: customizer/customizer-library/extensions/class-upsell-customize.php:76
+msgid "VT Blogging Pro"
+msgstr ""
+
+#: customizer/customizer-library/extensions/class-upsell-customize.php:77
+msgid "Buy Pro"
+msgstr ""
+
+#. Name of the theme
+msgid "VT Blogging"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"VT Blogging is a Minimal and Clean WordPress Theme. Mobile-friendly "
+"(responsive), optimized for speed, and implements SEO (search engine "
+"optimization) best practices. The theme options are powered by Customizer. "
+"You can check out the demo at http://volthemes.com/demo/vt-blogging/ for a "
+"closer look."
+msgstr ""
+
+#. URI of the theme
+msgid "http://volthemes.com/theme/vt-blogging/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://volthemes.com"
+msgstr ""
